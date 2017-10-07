@@ -2,3 +2,4 @@ envrest/
 envpandas/
 .ipynb_checkpoints/
 testing_django_rest_framework/restProject/db.sqlite3
+testing_heroku_configs/env/
